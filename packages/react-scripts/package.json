@@ -1,6 +1,6 @@
 {
   "name": "@beinlife/react-scripts",
-  "version": "3.2.0",
+  "version": "3.2.0-alpha-01",
   "description": "Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
