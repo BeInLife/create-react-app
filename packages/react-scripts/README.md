@@ -1,3 +1,7 @@
+# This is not an original CRA repo.
+
+# This repo is built on top of https://github.com/react-workspaces/create-react-app to support old module import in yarn workspaces lerna.
+
 # :warning: WARNING!
 
 This is a custom scripts-version of React-Scripts that provides Monorepo support.
